@@ -1,0 +1,9 @@
+
+groq
+langchain-groq
+langchain-core
+langgraph
+pydantic
+requests
+python-dotenv
+gradio
