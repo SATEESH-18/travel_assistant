@@ -1,3 +1,16 @@
+
+---
+title: AI Travel Assistant
+emoji: ✈️
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: 6.32.0
+app_file: app.py
+pinned: false
+---
+
+
 # 🌍 AI Travel Assistant
 
 An AI-powered multi-agent travel planning application built using Groq, LangChain, LangGraph, Duffel, LiteAPI, Tavily and OpenWeather.
